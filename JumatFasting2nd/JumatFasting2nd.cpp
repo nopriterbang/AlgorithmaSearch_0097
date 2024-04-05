@@ -7,5 +7,8 @@ int i;		 // Index of array elements
 
 void input()
 {
-
+	while (true)
+	{
+		cout <<
+	}
 }
