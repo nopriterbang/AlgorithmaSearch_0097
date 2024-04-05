@@ -9,6 +9,6 @@ void input()
 {
 	while (true)
 	{
-		cout <<
+		cout << "Enter the number of elements of in the array: "
 	}
 }
